@@ -3,18 +3,7 @@ var router = express.Router();
 
  var min = 20;
 var max = 24;
-// var random_value = Math.random() * (max - min) + min; //Generates a random value between min and max-1
 
-
-// var rand1 = Math.random() * (max - min) + min;
-// var rand2 = Math.random() * (max - min) + min;
-// var rand3 = Math.random() * (max - min) + min;
-// var rand4 = Math.random() * (max - min) + min;
-
-// var abs = Math.abs(rand1);
-// var cos = Math.acos(rand2) 
-// var sin = Math.sin(rand3);
-// var sinh = Math.sinh(rand4);
 
 /* GET mydata page. */
 
